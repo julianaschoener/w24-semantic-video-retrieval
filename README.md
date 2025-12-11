@@ -1,6 +1,6 @@
 # w24-semantic-video-retrieval
 Prototype for an intelligent video-archive retrieval system. Explores building a clean dataset from metadata and transcripts and testing semantic search with modern NLP models.
-Intelligent Video Retrieval System
+
 
 ## A Prototype for Semantic, Person-Specific, and Emotion-Aware Search in Video Archives
 
